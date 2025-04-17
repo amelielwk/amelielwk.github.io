@@ -22,7 +22,7 @@ Research Experience
 
 * Summer 2023: Research Intern at the Department of Geography, University of Cambridge
   * Supervised by Prof. Michael Herzog and Dr. Vishnu Nair
-  * Updated the microphysics scheme in an existing atmospheric model
+  * Updated the microphysics scheme in an existing atmospheric cloud model
 
 * Summer 2022: Research Student at the Department of Physics, The Chinese University of Hong Kong
   * Shadowed under the Star Formation Group, led by Prof. Hua-Bai Li
