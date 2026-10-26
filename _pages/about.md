@@ -17,8 +17,9 @@ Outside of research, I enjoy outdoor sports and spending time in nature. On quie
 
 Feel free to reach out for a chat, whether it’s about research, potential collaborations, or simply shared interests!
 
-Some of my other research interests:
+*Some of my other research interests:*
 
-* AI for physical systems
+* Scientific machine learning for multiscale systems
+* Differentiable simulations
 * Machine learning for weather and climate modelling
 * Generative models
