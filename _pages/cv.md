@@ -9,20 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Planetary Science, Université Côte d'Azur, 2027 (expected)
-* M.Sci. & B.A. in Natural Sciences Tripos, University of Cambridge, 2024
+[Download my CV (PDF)](files/cv.pdf)
 
-Research Experience
-======
-* Master's Project
-  * Supervised by Dr. Miles Cranmer and advised by Prof. Cathie Clarke
-  * Focused on using deep learning techniques to generate protoplanetary discs light curves
-
-* Summer 2023: Research Intern at the Department of Geography, University of Cambridge
-  * Supervised by Prof. Michael Herzog and Dr. Vishnu Nair
-  * Updated the microphysics scheme in an existing atmospheric cloud model
-
-* Summer 2022: Research Student at the Department of Physics, The Chinese University of Hong Kong
-  * Shadowed under the Star Formation Group, led by Prof. Hua-Bai Li
+<iframe src="files/cv.pdf" width="100%" height="800px"></iframe>
