@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p><a href="/files/cv.pdf" target="_blank">Download my CV (PDF)</a></p>
+[Download my CV (PDF)](/files/cv.pdf)
 
 <iframe
   src="/files/cv.pdf"

@@ -9,6 +9,6 @@ author_profile: true
 
 ## Conference Proceedings
 
-[Solver-In-The-Loop Training with Multistep Inputs for Capturing Fine-Scale Turbulence](/files/S04%20Physics-informed%20Models.pdf)
+[Solver-In-The-Loop Training with Multistep Inputs for Capturing Fine-Scale Turbulence](/files/aifluids.pdf)
 
 Amelie Lam, Héloïse Méheut, Sara El Bouch, André Ferrari, *Proceedings of 2nd International Symposium on AI and Fluid Mechanic  (S04: Physics-informed Models)*, 2026

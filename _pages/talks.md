@@ -19,6 +19,6 @@ author_profile: true
 
 ## 2025
 
-[**Capturing Fine-Scale Turbulence in Planet-Forming Disks Using CNN-Augmented Fluid Solvers**](https://asnum2025.sciencesconf.org/browse/typdoc?lang=en)
+[**Capturing Fine-Scale Turbulence in Planet-Forming Disks Using CNN-Augmented Fluid Solvers**](/files/asnum.pdf)
 
 *ASNUM 2025*, IMAG, Grenoble, France, December 2025
