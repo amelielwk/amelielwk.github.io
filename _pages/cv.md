@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<p><a href="{{ '/files/cv.pdf' | relative_url }}" target="_blank">Download my CV (PDF)</a></p>
+<p><a href="/files/cv.pdf" target="_blank">Download my CV (PDF)</a></p>
 
-<iframe src="{{ '/files/cv.pdf' | relative_url }}" width="100%" height="800px"></iframe>
+<iframe
+  src="/files/cv.pdf"
+  width="100%"
+  height="800"
+  style="border: none;">
+</iframe>
